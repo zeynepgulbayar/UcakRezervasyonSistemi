@@ -1,0 +1,69 @@
+Almanya, Berlin, Tegel Uluslararasi Havalimani
+Arjantin, Buenos Aires, Ministro Pistarini Uluslararasi Havalimani
+Avustralya, Sydney, Kingsford Smith Uluslararasi Havalimani
+Bahreyn, Manama, Bahreyn Uluslararasi Havalimani
+Banglades, Dakka, Hazrat Shahjalal Uluslararasi Havalimani
+Belcika, Brusel, Brusel Uluslararasi Havalimani
+Brezilya, Rio de Janeiro, Rio de Janeiro-Antonio Carlos Jobim Uluslararasi Havalimani
+Bulgaristan, Sofya, Sofya Uluslararasi Havalimani
+Cek Cumhuriyeti, Prag, Vaclav Havel Havalimani
+Cin, Sanghay, Sanghay Pudong Uluslararasi Havalimani
+Danimarka, Kopenhag, Kopenhag Havalimani
+Dominik Cumhuriyeti, Santo Domingo, Las Americas Uluslararasi Havalimani
+Filipinler, Manila, Ninoy Aquino Uluslararasi Havalimani
+Finlandiya, Helsinki, Helsinki-Vantaa Havalimani
+Fransa, Paris, Charles de Gaulle Uluslararasi Havalimani
+Guney Afrika, Johannesburg, O.R. Tambo Uluslararasi Havalimani
+Guney Kore, Seul, Incheon Uluslararasi Havalimani
+Hindistan, Mumbai, Chhatrapati Shivaji Uluslararasi Havalimani
+Hollanda, Amsterdam, Amsterdam Schiphol Havalimani
+Ingiltere, Londra, Heathrow Havalimani
+Irlanda, Dublin, Dublin Havalimani
+Ispanya, Madrid, Madrid-Barajas Havalimani
+Isvec, Stockholm, Stockholm Arlanda Havalimani
+Isvicre, Cenevre, Cenevre Uluslararasi Havalimani
+Italya, Roma, Leonardo da Vinci-Fiumicino Havalimani
+Japonya, Tokyo, Narita Uluslararasi Havalimani
+Kanada, Toronto, Toronto Pearson Uluslararasi Havalimani
+Kazakistan, Almati, Almati Uluslararasi Havalimani
+Kenya, Nairobi, Jomo Kenyatta Uluslararasi Havalimani
+Kirgizistan, Biskek, Manas Uluslararasi Havalimani
+Kolombiya, Bogota, El Dorado Uluslararasi Havalimani
+Kosta Rika, San Jose, Juan Santamaria Uluslararasi Havalimani
+Kuveyt, Kuveyt Sehri, Kuveyt Uluslararasi Havalimani
+Letonya, Riga, Riga Uluslararasi Havalimani
+Litvanya, Vilnius, Vilnius Havalimani
+Lubnan, Beyrut, Beyrut Rafik Hariri Uluslararasi Havalimani
+Meksika, Mexico City, Benito Juarez Uluslararasi Havalimani
+Misir, Kahire, Kahire Uluslararasi Havalimani
+Moldova, Kisinev, Kisinev Uluslararasi Havalimani
+Nepal, Katmandu, Tribhuvan Uluslararasi Havalimani
+Nijerya, Lagos, Murtala Muhammed Uluslararasi Havalimani
+Norvec, Oslo, Oslo Gardermoen Havalimani
+Ozbekistan, Taskent, Tashkent Uluslararasi Havalimani
+Pakistan, Karachi, Karachi Uluslararasi Havaalani
+Panama, Panama City, Tocumen Uluslararasi Havaalani
+Peru, Lima, Jorge Chavez Uluslararasi Havaalani
+Polonya, Varsova, Varsova Chopin Havaalani
+Portekiz, Lizbon, Lizbon Portela Havaalani
+Romanya, Bukres, Henri Coanda Bukres Uluslararasi Havaalani
+Rusya, Moskova, Domodedovo Uluslararasi Havaalani
+Senegal, Dakar, Blaise Diagne Uluslararasi Havaalani
+Singapur, Singapur, Changi Havaalani
+Slovakya, Bratislava, M. R. Stefanik Havaalani
+Slovenya, Ljubljana, Ljubljana Joze Pucnik Havaalani
+Sri Lanka, Kolombo, Bandaranaike Uluslararasi Havaalani
+Sudan, Hartum, Hartum Uluslararasi Havaalani
+Suudi Arabistan, Cidde, Kral Abdulaziz Uluslararasi Havaalani
+Sili, Santiago, Santiago Uluslararasi Havaalani
+Tanzanya, Darusselam, Julius Nyerere Uluslararasi Havaalani
+Tayland, Bangkok, Suvarnabhumi Havaalani Tayvan, Taipei, Taoyuan Uluslararasi Havaalani
+Tunus, Tunus, Kartaca Uluslararasi Havaalani
+Turkiye, Istanbul, Istanbul Havaalani
+Turkmenistan, Asgabat, Asgabat Uluslararasi Havaalani
+Ukrayna, Kiev, Borispol Uluslararasi Havaalani
+Umman, Muskat, Muskat Uluslararasi Havaalani
+Urdun, Amman, Qeen Alia Uluslararasi Havaalani
+Venezuela, Caracas, Simon Bolivar Uluslararasi Havaalani
+Vietnam, Ho Chi Minh City, Tan Son Nhat Uluslararasi Havaalani
+Yunanistan, Atina, Eleftheros Venizelos
